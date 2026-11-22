@@ -3,7 +3,7 @@
     "id": "d486e9b24eeeb080",
     "key": "key1",
     "expiresAt": "2027-05-30",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "ali456",
