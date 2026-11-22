@@ -9,6 +9,6 @@
     "id": "ali456",
     "key": "key2",
     "expiresAt": "2025-06-15",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
